@@ -44,5 +44,4 @@
 |--|---|
 <img src="https://github.com/gusantos1/icons/blob/main/gmail.jpg" width="20" height="20"> |*rafaelmatiashue@gmail.com*
 <img src="https://github.com/gusantos1/icons/blob/main/010-linkedin.svg" width="20" height="20"> | *José Rafael*
-
 ---
