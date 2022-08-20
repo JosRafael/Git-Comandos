@@ -42,6 +42,6 @@
 *Quer trocar uma idéia, ficou com alguma dúvida ou tem algo que eu posso te ajudar ? **Fique a vontade!** :wink:*
 |Canais||
 |--|---|
-<img src="![010-linkedin](https://user-images.githubusercontent.com/81492148/185763677-93dc689f-5091-4007-9d65-b96e97993754.svg)" width="20" height="20"> |*rafaelmatiashue@gmail.com*
+<img src="https://user-images.githubusercontent.com/81492148/185763755-0db0c993-bc89-4feb-b78f-56de7670f346.jpg" width="20" height="20"> |*rafaelmatiashue@gmail.com*
 <img src="https://user-images.githubusercontent.com/81492148/185763677-93dc689f-5091-4007-9d65-b96e97993754.svg" width="20" height="20"> | *José Rafael*
 ---
