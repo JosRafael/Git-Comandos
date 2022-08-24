@@ -17,7 +17,16 @@
 **Mudando Branch**: `$ git checkout escolha_seu_branch`  
 **Deletando um Branch(remoto e local)**:
 * _Remoto:_ `$ git push origin :nome_do_branch`
-* _Local:_ `$ git branch -D nome_do_branch`   
+* _Local:_ `$ git branch -D nome_do_branch`  
+
+*Codigos Quando eu apagar o 'git': 
+git init
+git remote add origin https://github.com/lipefreire/Node.JS.git
+git pull origin main
+git checkout -b main
+git add .
+git commit -m ""
+git push origin main
    
 **Atualizar repositório**: `$ git status`      
 **Adicionando arquivos**: `$ git add -A ou add nome_do_arquivo`    
