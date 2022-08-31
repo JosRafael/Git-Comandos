@@ -229,7 +229,7 @@ $ git clone https://github.com/Seu_Username/Nome_do_repositório.git
  ```
  
  **7 .** No github clique em **"Compare e Pull Request"** para enviar para o usuário do repositório as mudanças feitas comparadas com o repositório principal, com isso ele irá analisar as alterações e decidir aceitar ou não suas mudanças, com um Merge(adicionar suas mudanças ao codigo principal) <br>
-**obs: importante deixar um comentário no pull request, explicando oque foi alterado no código**
+**obs: importante deixar um comentário no pull request, explicando oque foi alterado no código**.
 
 ## Contato
 *Quer trocar uma idéia, ficou com alguma dúvida ou tem algo que eu posso te ajudar ? **Fique a vontade!** :wink:*
