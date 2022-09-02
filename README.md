@@ -65,7 +65,8 @@ queria? Tranquilo, bora aprender a remover isso!
 É bem parecido com a forma mostrada no **git add**, só muda o comando:
 ```sh
 $ git rm --cached nome_do_arquivo.formato
-```
+```sh
+$ rm --cached
 
 #### 🔥 Eu quero remover é tudo! 
 
