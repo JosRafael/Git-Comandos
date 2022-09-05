@@ -3,7 +3,7 @@
 <details>
 <summary>
   <strong>🔍 Sumário</strong>
-</summary>
+</summary>.
 
 >
 > *[🚀 Como inicializar um repositório](#1)*\
